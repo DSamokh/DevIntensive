@@ -3,4 +3,8 @@
     <color name="color_primary">#3F51B5</color>
     <color name="color_primary_dark">#303F9F</color>
     <color name="color_accent">#FF4081</color>
+    <color name="common_signin_btn_light_text_default">#FFffff</color>
+    <color name="common_signin_btn_dark_text_focused">#FFffff</color>
+    <color name="common_signin_btn_dark_text_default">#0000ff</color>
+
 </resources>
